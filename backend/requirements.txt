@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pymongo
+pydantic
+pillow
+pytesseract
+pdfplumber
+nltk
+spacy
+openai
+faiss-cpu
+python-multipart
+python-dotenv
+requests
